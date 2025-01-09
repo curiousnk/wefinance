@@ -1,3 +1,2 @@
 mountpoints:
-  /:
-    url: https://drive.google.com/drive/folders/1A-Hr3wDu6MqlYlpk94cyr_fKdp6WdKEY?usp=sharing
+  /: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
